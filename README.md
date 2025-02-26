@@ -1,2 +1,2 @@
-# gitintegration (dev branch)
+# gitintegration (production branch)
 Git integration use case
