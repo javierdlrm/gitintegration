@@ -1,2 +1,2 @@
-# gitintegration (dev branch)
+# gitintegration (dev - user A)
 Git integration use case
